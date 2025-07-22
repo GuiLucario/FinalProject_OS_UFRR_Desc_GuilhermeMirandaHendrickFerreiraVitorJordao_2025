@@ -1,1 +1,3 @@
-# FinalProject_OS_UFRR_Desc_GuilhermeMirandaHendrikFerreiraVitorJordao_2025
+# FinalProject_OS_UFRR_Desc_GuilhermeMirandaHendrickFerreiraVitorJordao_2025
+
+Grupo 01
